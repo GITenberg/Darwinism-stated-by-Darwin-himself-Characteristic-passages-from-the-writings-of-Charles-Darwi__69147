@@ -1,0 +1,39 @@
+_repo: Darwinism-stated-by-Darwin-himself-Characteristic-passages-from-the-writings-of-Charles-Darwi__69147
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Sheppard, Nathan
+    birthdate: 1834
+    deathdate: 1888
+    gutenberg_agent_id: '33243'
+    url: http://www.gutenberg.org/2009/agents/33243
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Darwin
+description: ''
+gutenberg_issued: '2022-10-13'
+identifiers:
+  gutenberg: '69147'
+language: en
+pgterms:marc904: https://archive.org/details/darwinismstatedb00darwuoft/page/n5/mode/2up
+pgterms:marc905: 20210524061604darwin
+pgterms:marc906: '1884'
+pgterms:marc907: US
+production_note: Tim Lindell, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: 'United States: D. Appleton and Company,1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Darwinism stated by Darwin himself: Characteristic passages from the writings
+  of Charles Darwin'
+url: http://www.gutenberg.org/ebooks/69147
